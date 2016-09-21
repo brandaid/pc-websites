@@ -1,0 +1,536 @@
+@import url("//hello.myfonts.net/count/2b5de8");
+ 
+@font-face {font-family: 'PlutoSansBlack';src: url('webfonts/2B5DE8_0_0.eot');src: url('webfonts/2B5DE8_0_0.eot?#iefix') format('embedded-opentype'),url('webfonts/2B5DE8_0_0.woff') format('woff'),url('webfonts/2B5DE8_0_0.ttf') format('truetype');}
+  
+@font-face {font-family: 'PlutoSansThin';src: url('webfonts/2B5DE8_1_0.eot');src: url('webfonts/2B5DE8_1_0.eot?#iefix') format('embedded-opentype'),url('webfonts/2B5DE8_1_0.woff') format('woff'),url('webfonts/2B5DE8_1_0.ttf') format('truetype');}
+  
+@font-face {font-family: 'PlutoSansCondThin';src: url('webfonts/2B5DE8_2_0.eot');src: url('webfonts/2B5DE8_2_0.eot?#iefix') format('embedded-opentype'),url('webfonts/2B5DE8_2_0.woff') format('woff'),url('webfonts/2B5DE8_2_0.ttf') format('truetype');}
+  
+@font-face {font-family: 'PlutoSansRegular';src: url('webfonts/2B5DE8_3_0.eot');src: url('webfonts/2B5DE8_3_0.eot?#iefix') format('embedded-opentype'),url('webfonts/2B5DE8_3_0.woff') format('woff'),url('webfonts/2B5DE8_3_0.ttf') format('truetype');}
+  
+@font-face {font-family: 'PlutoSansBold';src: url('webfonts/2B5DE8_4_0.eot');src: url('webfonts/2B5DE8_4_0.eot?#iefix') format('embedded-opentype'),url('webfonts/2B5DE8_4_0.woff') format('woff'),url('webfonts/2B5DE8_4_0.ttf') format('truetype');}
+  
+@font-face {font-family: 'PlutoSansCondBlack';src: url('webfonts/2B5DE8_5_0.eot');src: url('webfonts/2B5DE8_5_0.eot?#iefix') format('embedded-opentype'),url('webfonts/2B5DE8_5_0.woff') format('woff'),url('webfonts/2B5DE8_5_0.ttf') format('truetype');}
+  
+@font-face {font-family: 'PlutoSansCondBold';src: url('webfonts/2B5DE8_6_0.eot');src: url('webfonts/2B5DE8_6_0.eot?#iefix') format('embedded-opentype'),url('webfonts/2B5DE8_6_0.woff') format('woff'),url('webfonts/2B5DE8_6_0.ttf') format('truetype');}
+  
+@font-face {font-family: 'PlutoSansCondExLight';src: url('webfonts/2B5DE8_7_0.eot');src: url('webfonts/2B5DE8_7_0.eot?#iefix') format('embedded-opentype'),url('webfonts/2B5DE8_7_0.woff') format('woff'),url('webfonts/2B5DE8_7_0.ttf') format('truetype');}
+ 
+@font-face {font-family: 'PlutoSansCondHeavy';src: url('webfonts/2B5DE8_8_0.eot');src: url('webfonts/2B5DE8_8_0.eot?#iefix') format('embedded-opentype'),url('webfonts/2B5DE8_8_0.woff') format('woff'),url('webfonts/2B5DE8_8_0.ttf') format('truetype');}
+  
+@font-face {font-family: 'PlutoSansCondLight';src: url('webfonts/2B5DE8_9_0.eot');src: url('webfonts/2B5DE8_9_0.eot?#iefix') format('embedded-opentype'),url('webfonts/2B5DE8_9_0.woff') format('woff'),url('webfonts/2B5DE8_9_0.ttf') format('truetype');}
+  
+@font-face {font-family: 'PlutoSansCondMedium';src: url('webfonts/2B5DE8_A_0.eot');src: url('webfonts/2B5DE8_A_0.eot?#iefix') format('embedded-opentype'),url('webfonts/2B5DE8_A_0.woff') format('woff'),url('webfonts/2B5DE8_A_0.ttf') format('truetype');}
+  
+@font-face {font-family: 'PlutoSansCondRegular';src: url('webfonts/2B5DE8_B_0.eot');src: url('webfonts/2B5DE8_B_0.eot?#iefix') format('embedded-opentype'),url('webfonts/2B5DE8_B_0.woff') format('woff'),url('webfonts/2B5DE8_B_0.ttf') format('truetype');}
+  
+@font-face {font-family: 'PlutoSansExtraLight';src: url('webfonts/2B5DE8_C_0.eot');src: url('webfonts/2B5DE8_C_0.eot?#iefix') format('embedded-opentype'),url('webfonts/2B5DE8_C_0.woff') format('woff'),url('webfonts/2B5DE8_C_0.ttf') format('truetype');}
+ 
+@font-face {font-family: 'PlutoSansHeavy';src: url('webfonts/2B5DE8_D_0.eot');src: url('webfonts/2B5DE8_D_0.eot?#iefix') format('embedded-opentype'),url('webfonts/2B5DE8_D_0.woff') format('woff'),url('webfonts/2B5DE8_D_0.ttf') format('truetype');}
+  
+@font-face {font-family: 'PlutoSansLight';src: url('webfonts/2B5DE8_E_0.eot');src: url('webfonts/2B5DE8_E_0.eot?#iefix') format('embedded-opentype'),url('webfonts/2B5DE8_E_0.woff') format('woff'),url('webfonts/2B5DE8_E_0.ttf') format('truetype');}
+  
+@font-face {font-family: 'PlutoSansMedium';src: url('webfonts/2B5DE8_F_0.eot');src: url('webfonts/2B5DE8_F_0.eot?#iefix') format('embedded-opentype'),url('webfonts/2B5DE8_F_0.woff') format('woff'),url('webfonts/2B5DE8_F_0.ttf') format('truetype');}
+
+body
+{
+	font-family: 'PlutoSansCondLight';
+	color: #808080;
+	font-size: 17px;
+	line-height: 21px;
+	line-height: 35px;
+}
+a:hover
+{
+	text-decoration: none;
+	color: #fff;
+}
+p
+{
+	margin-bottom: 40px;
+}
+h1
+{
+	font-family: 'PlutoSansCondExLight';
+	font-size: 42px;
+	margin: 50px 0;
+}
+h2
+{
+	font-family: 'PlutoSansCondLight';
+	color: #1a355e;
+	font-size: 42px;
+	text-align: center;
+	margin-bottom: 70px;
+}
+input
+{
+	margin-bottom: 35px;
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+}
+nav li a
+{
+	font-family: 'PlutoSansCondMedium';
+	color: #1a355e !important;	
+	text-transform: uppercase;
+	font-size: 14px;
+	text-align: center;
+}
+.nav > li > a 
+{
+    padding: 10px 30px !important;
+}
+.navbar-brand > img
+{
+	margin: 0 auto;
+}
+.header
+{
+	padding-bottom: 0 !important;
+}
+.head
+{
+	height: 400px;
+	background-image: url("../images/header-back.jpg");
+	background-size: cover;
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-color: #9cdcef;
+}
+.phone1:before
+{
+    content: url("../images/icon-phone-1.png");
+    position: absolute;
+    left: 6px;
+}
+.phone2:before
+{
+    content: url("../images/icon-phone-2.png");
+    position: relative;
+    left: -5px;
+    top: 5px;
+}
+.doctor-avatar 
+{
+	text-align: center;
+}
+.doctor-avatar img
+{
+	position: relative;
+    top: -125px;
+}
+.doctor-avatar p
+{
+	font-family: 'PlutoSansCondMedium';
+	color: #1a355e !important;	
+	text-transform: uppercase;
+	font-size: 14px;
+	text-align: center;
+	position: relative;
+    top: -125px;
+}
+.services
+{
+	background-color: #f6f8f3;
+	border-top: 1px solid #d8d8d8;
+	border-bottom: 1px solid #d8d8d8;
+}
+.services:before
+{
+	content: url(../images/icon-tooth.png);
+    margin: 0 auto;
+    position: relative;
+    top: -45px;
+    margin-bottom: -60px;
+}
+.service
+{
+	background-color: #fff;
+	border: 1px solid #eeecec;
+	text-align: center;
+	padding: 55px;
+	height: 420px;
+	-webkit-box-shadow: 0px 7px 20px -5px #ccc;
+    -moz-box-shadow: 0px 7px 20px -5px #ccc;
+    box-shadow: 0px 7px 20px -5px #ccc;
+}
+.service:hover
+{
+	-webkit-box-shadow: 0px 0px 15px 5px #ccc;
+	-moz-box-shadow: 0px 0px 15px 5px #ccc;
+	box-shadow: 0px 0px 15px 5px #ccc;
+}
+.service h3
+{
+	font-family: 'PlutoSansHeavy';
+	color: #1a355e;
+	font-size: 18px;
+	text-transform: uppercase;
+}
+.owl-carousel .col-md-4
+{
+	width: 100%;
+}
+.locate
+{
+	background-image: url("../images/map-back.jpg");
+	background-size: cover;
+	background-position: center center;
+	background-repeat: no-repeat;
+}
+.locate:before
+{
+	content: url(../images/icon-map.png);
+    margin: 0 auto;
+    position: relative;
+    top: -45px;
+    margin-bottom: -60px;
+}
+.center
+{
+	position: absolute;
+	right: 0;
+	left: 0;
+	padding: 10px;
+	text-transform: none !important;
+}
+#map 
+{
+    width: 100%;
+    height: 500px;
+    -webkit-box-shadow: 0px 0px 40px 5px #ccc;
+    -moz-box-shadow: 0px 0px 40px 5px #ccc;
+    box-shadow: 0px 0px 40px 5px #ccc;
+    margin-bottom: 35px;
+}
+.map-button
+{
+	color: #fff;
+    text-align: center;
+    background-color: #3ac1e1;
+    width: 20%;
+    margin: 0 auto;
+    padding: 15px;
+    border-radius: 6px;
+    margin-top: 80px;
+    min-width: 200px;
+}
+input.button:hover,
+.map-button:hover,
+.center:hover
+{
+	background-color: #2bb3cf;
+	text-decoration: none;
+}
+.map a: hover
+{
+	color: #fff;
+	text-decoration: none;
+}
+.contact
+{
+	background-color: #3ac1e1;
+}
+.contact:before
+{
+	content: url(../images/icon-phone-foot.png);
+    margin: 0 auto;
+    position: relative;
+    top: -45px;
+    margin-bottom: -60px;
+}
+.contact-form
+{
+	background-color: #fff;
+	border-radius: 6px;
+	padding: 55px;
+	text-align: center;
+}
+.input-email
+{
+	background-image: url("../images/icon-email.png");
+	background-position: 10px center;
+	background-repeat: no-repeat;
+	padding-left: 40px;
+}
+.input-phone
+{
+	background-image: url("../images/icon-phone-1.png");
+	background-position: 10px center;
+	background-repeat: no-repeat;
+	padding-left: 40px;
+}
+.button
+{
+	color: #fff;
+    text-align: center;
+    background-color: #3ac1e1;
+    width: 20%;
+    margin: 0 auto;
+    border-radius: 6px;
+    text-transform: uppercase;
+    border: 0;
+    min-width: 200px;
+}
+.copyright
+{
+	text-align: center;
+	text-align: center;
+    margin-top: 75px;
+    margin-bottom: 0;
+}
+.white
+{
+	color: #fff;
+}
+.blue
+{
+	color: #3ac1e1 !important;
+}
+div#bodyContent
+{
+	color: #3ac1e1;
+	font-family: 'PlutoSansCondRegular';
+	font-size: 21px;
+    line-height: 31px;
+    padding: 25px 0 20px 25px;
+}
+#map > div > div:nth-child(1) > div:nth-child(4) > div:nth-child(4) > div > div:nth-child(3)
+{
+	display: none;
+}
+.navbar-brand 
+{
+    position: absolute;
+    width: 100%;
+    left: 0;
+    top: 0;
+    text-align: center;
+    padding: 45px;
+    margin: auto;
+}
+.navbar-toggle 
+{
+    z-index:3;
+}
+.navbar-toggle .icon-bar {
+	  position: relative;
+	  transition: all 500ms ease-in-out;
+}
+
+.navbar-toggle.active .icon-bar.top {
+	  top: 6px;
+	  transform: rotate(45deg);
+}
+
+.navbar-toggle.active .icon-bar.middle {
+	  background-color: transparent;
+}
+
+.navbar-toggle.active .icon-bar.bottom {
+	  top: -6px;
+	  transform: rotate(-45deg);
+}
+.navbar-default 
+{
+    background-color: #fff;
+    border-color: #fff;
+    margin-bottom: 0;
+    padding: 45px;
+}
+.phone-mobile 
+{
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    z-index: 999;
+}
+#map > div > div > div:nth-child(1) > div:nth-child(4) > div:nth-child(4) > div
+{
+	-webkit-box-shadow: 0px 0px 40px 5px #777;
+    -moz-box-shadow: 0px 0px 40px 5px #777;
+    box-shadow: 0px 0px 40px 5px #777;
+}
+#map > div > div:nth-child(1) > div:nth-child(4) > div:nth-child(4) > div:before,
+#map > div > div > div:nth-child(1) > div:nth-child(4) > div:nth-child(4) > div:before
+{
+	content: url("../images/map-marker.png");
+    position: relative;
+    top: -20px;
+    left: -20px;
+    z-index: 99999;
+}
+#map > div > div > div:nth-child(1) > div:nth-child(4) > div:nth-child(4) > div > div:nth-child(1) > div:nth-child(3) > div:nth-child(1),
+#map > div > div > div:nth-child(1) > div:nth-child(4) > div:nth-child(4) > div > div:nth-child(1) > div:nth-child(3) > div:nth-child(2),
+#map > div > div > div:nth-child(1) > div:nth-child(4) > div:nth-child(4) > div > div:nth-child(1) > div:nth-child(1)
+{
+	display: none;
+}
+#msg
+{
+	border: 2px solid #3ac1e1;
+    margin: 20px auto 0;
+    display: table;
+    padding: 10px 30px;
+    border-radius: 5px;
+}
+
+@media (min-width: 1200px) {
+  .container 
+  {
+    width: 1140px;
+    padding-bottom: 175px;
+  }
+}
+
+@media (min-width: 979px) {
+  .container 
+  {
+    padding-bottom: 110px;
+  }
+}
+
+@media (min-width: 768px) {
+  	.container.header
+	{
+		width: 100%;
+		max-width: 960px;
+	}
+	.phone-mobile
+	{
+		display: none;
+	}
+}
+
+@media only screen and (min-width : 768px) and (max-width : 978px) {
+	.container, .container-fluid 
+	{
+    	padding-bottom: 55px;
+	}
+    .doctor-avatar 
+    {
+    	margin-bottom: -100px;
+	}
+	.service 
+	{
+	    padding: 35px;
+	    height: initial;
+	}
+}
+
+@media (max-width: 767px) {
+	.container, .container-fluid 
+	{
+    	padding-bottom: 55px;
+	}
+	h2
+	{
+		margin-bottom: 35px;
+	}
+	#about-us p,
+	#about-us h1 
+	{
+	    text-align: center;
+	}
+	.doctor-avatar 
+	{
+    	margin-bottom: -120px;
+	}
+	a.blue.phone1
+	{
+    	display: none;
+	}
+	.head 
+	{
+    	height: 250px;
+	}
+	.header 
+	{
+    	padding: 0;
+	}
+	.navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus
+	{
+		background-color: #fff;
+	}
+	div#navbar-collapse-1 
+	{
+	    position: relative;
+	    top: 99px;
+	    background: #f8f8f8;
+	    padding: 0;
+	    z-index: 100;
+	    -webkit-box-shadow: inset 0px 7px 20px -5px #ccc;
+	    -moz-box-shadow: inset 0px 7px 20px -5px #ccc;
+	    box-shadow: inset 0px 7px 20px -5px #ccc;
+	}
+	.navbar-brand
+	{
+		padding: 25px !important;
+	}
+	.navbar-brand > img
+	{
+	   max-width: 180px;
+	   display: initial;
+	}
+	.nav > li > a 
+	{
+	    padding: 20px 39px;
+    	border-bottom: 1px solid #cfd8dc;
+	}
+	.nav li:hover, .nav li a:active
+	{
+		background: #3ac1e1;
+		color: #fff;
+	}
+	.navbar-nav
+	{
+		margin: 0;
+	}
+	button.navbar-toggle 
+	{
+	    border: 0;
+	    padding: 0;
+	    margin: 0;
+	    position: absolute;
+	    top: 30px;
+	    right: 20px;
+	}
+	.navbar-default
+	{
+		padding: 0 !important;
+		height: 100px;
+	}
+	.navbar-default .navbar-toggle .icon-bar 
+	{
+	    background-color: #1a355e;
+	}
+	.navbar-toggle .icon-bar 
+	{
+	    width: 25px;
+	    height: 3px;
+	    border-radius: 3px;
+	}
+	.navbar-toggle .icon-bar + .icon-bar 
+	{
+	    margin-top: 3px;
+	}
+	.service
+	{
+	    height: initial;
+	}
+	.contact-form 
+	{
+		padding: 25px;
+	}
+	input 
+	{
+		margin-bottom: 20px;
+	}
+	input.button 
+	{	
+	    width: 100%;
+    	border-radius: 2px;
+	}
+}
