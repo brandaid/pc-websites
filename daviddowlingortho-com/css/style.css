@@ -262,8 +262,7 @@ input.button:hover,
 	background-repeat: no-repeat;
 	padding-left: 40px;
 }
-.button
-{
+.button {
 	color: #fff;
     text-align: center;
     background-color: #3ac1e1;
@@ -273,6 +272,16 @@ input.button:hover,
     text-transform: uppercase;
     border: 0;
     min-width: 200px;
+    -webkit-transition: color .25s linear, background-color .25s ease-in-out, border-color .25s ease-in-out;
+	-moz-transition: color .25s linear, background-color .25s ease-in-out, border-color .25s ease-in-out;
+	-o-transition: color .25s linear, background-color .25s ease-in-out, border-color .25s ease-in-out;
+	transition: color .25s linear, background-color .25s ease-in-out, border-color .25s ease-in-out;
+}
+button:hover, button:focus, .button:hover, .button:focus {
+    -webkit-transition: color .25s linear, background-color .25s ease-in-out, border-color .25s ease-in-out;
+	-moz-transition: color .25s linear, background-color .25s ease-in-out, border-color .25s ease-in-out;
+	-o-transition: color .25s linear, background-color .25s ease-in-out, border-color .25s ease-in-out;
+	transition: color .25s linear, background-color .25s ease-in-out, border-color .25s ease-in-out;
 }
 .copyright
 {
